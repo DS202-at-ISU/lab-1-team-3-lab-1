@@ -25,3 +25,5 @@ This is a line from rStudio - Jamey
 # Experience Notes
 
 Akshat: This was a fun experience and I would like to continue to get better at working with Git and collaborative programming. I did not run into problems on my device however team members had an issue on theirs and we learned to use the terminal to clone and commit with Git.
+
+Jamey: It was good to practice Git again. Some team members had issues and it was fun helping others lol

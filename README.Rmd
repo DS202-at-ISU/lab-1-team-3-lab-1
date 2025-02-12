@@ -38,4 +38,16 @@ Akshat's Notes:
 
 Overall: This was a fun experience and I would like to continue to get better at working with Git and collaborative programming. I did not run into problems on my device however team members had an issue on theirs and we learned to use the terminal to clone and commit with Git.
 
+12.2 - This step was easy because my teammate made the repo.
+
+12.3 - I am used to cloning so I didn't have trouble.
+
+12.4 - I pulled and pushed a line pretty easily from the terminal.
+
+12.5 - Pushing was easy from the terrminal.
+
+12.6 - I was able to look at the main repo in Github and confirm my push alongside my teammates.
+
+12.7 - I don't want to delete the repo yet but I know how to.
+
 Jamey: It was good to practice Git again. Some team members had issues and it was fun helping others lol

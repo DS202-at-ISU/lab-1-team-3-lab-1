@@ -35,6 +35,12 @@ Cassidy's Notes
 
 12.4 - This was also easy because I have worked in git before.
 
+12.5 - Had some struggle with this when connecting from RStudio to Git but I figured it out.
+
+12.6 - My changes were automatically updated.
+
+12.7 - I do not want to delete the repo.
+
 
 Akshat's Notes:
 

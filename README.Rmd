@@ -33,6 +33,8 @@ Cassidy's Notes
 
 12.3 - This was also easy as I have done similar steps in COMS 319 for VS Code
 
+12.4 - This was also easy because I have worked in git before.
+
 
 Akshat's Notes:
 

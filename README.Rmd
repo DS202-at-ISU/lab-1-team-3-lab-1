@@ -23,8 +23,16 @@ This is a line from RStudio - Akshat
 This is a line from rStudio - Jamey
 
 This is a line from rStudio- Ashlynn
+
+This is a line from RStudio - Cassidy
 =======
 # Experience Notes
+
+Cassidy's Notes
+12.2 - This was easy as my teammate did the repo.
+
+12.3 - This was also easy as I have done similar steps in COMS 319 for VS Code
+
 
 Akshat's Notes:
 
